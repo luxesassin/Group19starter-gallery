@@ -30,4 +30,12 @@ Release Date: Jul 26, 2027
     -   slovenian (AB)
     -   swedish
 
+## Static to Trivial
+
+- Added CI
+
+## Trivial to Basic
+
+- Updated views, core, and web pages
+
 
