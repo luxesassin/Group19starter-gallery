@@ -38,4 +38,8 @@ Release Date: Jul 26, 2027
 
 - Updated views, core, and web pages
 
+## Basic to Good website Conversion
+
+- Updated Views and controlers
+- Moved images to database.
 
